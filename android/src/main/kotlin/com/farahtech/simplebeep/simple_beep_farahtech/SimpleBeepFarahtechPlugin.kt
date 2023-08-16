@@ -4,7 +4,7 @@ import android.content.Context
 import android.content.res.AssetManager
 import androidx.annotation.NonNull
 
-import com.farahtech.simplebeep.simple_beep_farahtech_example.SimpleBeepPlayer
+import com.farahtech.simplebeep.simple_beep_farahtech.SimpleBeepPlayer
 
 import io.flutter.embedding.engine.plugins.FlutterPlugin
 import io.flutter.plugin.common.MethodCall

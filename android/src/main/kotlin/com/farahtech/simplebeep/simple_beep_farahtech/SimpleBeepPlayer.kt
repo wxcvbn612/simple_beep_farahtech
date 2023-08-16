@@ -1,4 +1,4 @@
-package com.farahtech.simplebeep.simple_beep_farahtech_example
+package com.farahtech.simplebeep.simple_beep_farahtech
 
 import android.content.res.AssetFileDescriptor
 import android.content.res.AssetManager
