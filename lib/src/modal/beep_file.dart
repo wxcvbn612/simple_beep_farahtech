@@ -1,5 +1,5 @@
 class BeepFile {
-  String? assetFileName = "assets/beep.wav";
+  final String assetFileName;
   final String? package;
 
   BeepFile(

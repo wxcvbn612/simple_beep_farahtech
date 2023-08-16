@@ -13,4 +13,6 @@ class SimpleBeepPlayer {
   static Future<void> unload(BeepFile file) {
     return SimpleBeepFarahtechPlatform.instance.unload(file);
   }
+
+  getPlatformVersion() {}
 }
